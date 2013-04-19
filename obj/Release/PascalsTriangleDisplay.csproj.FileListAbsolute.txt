@@ -1,0 +1,8 @@
+c:\users\aceinfinity\documents\visual studio 2012\Projects\PascalsTriangleDisplay\PascalsTriangleDisplay\bin\Release\PascalsTriangleDisplay.exe
+c:\users\aceinfinity\documents\visual studio 2012\Projects\PascalsTriangleDisplay\PascalsTriangleDisplay\bin\Release\PascalsTriangleDisplay.pdb
+c:\users\aceinfinity\documents\visual studio 2012\Projects\PascalsTriangleDisplay\PascalsTriangleDisplay\obj\Release\PascalsTriangleDisplay.Form1.resources
+c:\users\aceinfinity\documents\visual studio 2012\Projects\PascalsTriangleDisplay\PascalsTriangleDisplay\obj\Release\PascalsTriangleDisplay.Properties.Resources.resources
+c:\users\aceinfinity\documents\visual studio 2012\Projects\PascalsTriangleDisplay\PascalsTriangleDisplay\obj\Release\PascalsTriangleDisplay.csproj.GenerateResource.Cache
+c:\users\aceinfinity\documents\visual studio 2012\Projects\PascalsTriangleDisplay\PascalsTriangleDisplay\obj\Release\PascalsTriangleDisplay.exe
+c:\users\aceinfinity\documents\visual studio 2012\Projects\PascalsTriangleDisplay\PascalsTriangleDisplay\obj\Release\PascalsTriangleDisplay.pdb
+C:\Users\AceInfinity\Documents\Visual Studio 2012\Projects\PascalsTriangleDisplay\PascalsTriangleDisplay\obj\Release\PascalsTriangleDisplay.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\AceInfinity\Documents\Visual Studio 2012\Projects\PascalsTriangleDisplay\PascalsTriangleDisplay\bin\Debug\PascalsTriangleDisplay.exe
+C:\Users\AceInfinity\Documents\Visual Studio 2012\Projects\PascalsTriangleDisplay\PascalsTriangleDisplay\bin\Debug\PascalsTriangleDisplay.pdb
+C:\Users\AceInfinity\Documents\Visual Studio 2012\Projects\PascalsTriangleDisplay\PascalsTriangleDisplay\obj\Debug\PascalsTriangleDisplay.Form1.resources
+C:\Users\AceInfinity\Documents\Visual Studio 2012\Projects\PascalsTriangleDisplay\PascalsTriangleDisplay\obj\Debug\PascalsTriangleDisplay.Properties.Resources.resources
+C:\Users\AceInfinity\Documents\Visual Studio 2012\Projects\PascalsTriangleDisplay\PascalsTriangleDisplay\obj\Debug\PascalsTriangleDisplay.csproj.GenerateResource.Cache
+C:\Users\AceInfinity\Documents\Visual Studio 2012\Projects\PascalsTriangleDisplay\PascalsTriangleDisplay\obj\Debug\PascalsTriangleDisplay.exe
+C:\Users\AceInfinity\Documents\Visual Studio 2012\Projects\PascalsTriangleDisplay\PascalsTriangleDisplay\obj\Debug\PascalsTriangleDisplay.pdb
